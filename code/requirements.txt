@@ -1,0 +1,8 @@
+dgl==1.1.0
+numpy==1.23.5
+pandas==2.0.0
+prefetch_generator==1.0.3
+pyGPGO==0.5.1
+scikit_learn==1.2.2
+torch==2.0.1
+rdkit==2021.09.5
